@@ -36,3 +36,13 @@ var fullname = function (firstname, secondname) {
 var firstname = 'Jordan';
 var secondname = 'Towers';
 
+//if statements
+
+var number1 = 10;
+var number2 = 100;
+
+if (number1 > number2) {
+	alert('true!!!')
+};
+
+
