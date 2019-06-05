@@ -13,3 +13,26 @@ var richObject = {
 }
 //end of variables
 //start of functions
+var whatIsMyFavColor = function () {
+
+	return true;
+
+	return 'blue';
+
+}
+
+var doSomething = function () {
+	console.log("do Something!!!");
+}
+
+var area = function (width, height) {
+	return width * height;
+}
+
+var fullname = function (firstname, secondname) {
+	return firstname + ' ' + secondname;
+}
+
+var firstname = 'Jordan';
+var secondname = 'Towers';
+
