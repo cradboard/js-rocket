@@ -26,7 +26,7 @@
 	width: 20px;
 	height: 100px;
 	background-color: blue;
-	transition: bottom 2000ms;
+	transition: bottom 4000ms;
 }
 
 body.body-state1 .rocket{
@@ -35,7 +35,7 @@ body.body-state1 .rocket{
 
 body.body-state3 .rocket,
 body.body-state4 .rocket{
-	bottom: 1000px;
+	bottom: 3000px;
 }
 
 .state1,
