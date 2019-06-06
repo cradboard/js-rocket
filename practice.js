@@ -41,8 +41,38 @@ var secondname = 'Towers';
 var number1 = 10;
 var number2 = 100;
 
-if (number1 > number2) {
+if (number1 < number2) {
 	alert('true!!!')
 };
 
+var number1 = 10;
+var number2 = 100;
+
+if (number1 < number2) {
+	alert('true!!!')
+} else {
+	alert('false!!!')
+}
+
+var name1 = 'Jordan';
+var name2 = 'Yeet';
+
+if (name1 == 'Jordan') {
+	alert('true!!!');
+} else if (name2 == 'Jordan') {
+	alert('true!!!2');
+} else {
+	alert('false!!!');
+}
+
+var name1 = 'Jordan';
+var name2 = 'Yeet';
+
+if (name1 == 'Jordan' && name2 == 'Yeet') {
+	alert('true!!!');
+} else if (name2 == 'Jordan') {
+	alert('true!!!2');
+} else {
+	alert('false!!!');
+}
 
